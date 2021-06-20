@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+__author__ = "Olivier R Philippe"
 """
 Grid search implementation for HDBSCAN.
 Perform clustering using different min_cluster_size and mim_sample and number of dimension using UMAP
